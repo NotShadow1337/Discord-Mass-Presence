@@ -15,7 +15,7 @@
     <img src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png" alt="Logo" width="120" height="120">
   </a>
   
-  <h2 align="center">Discord Presence</h3>
+  <h2 align="center">Discord Mass Presence</h3>
 
   <p align="center">
     A lightweight Python script for customizing Discord activity and status in bulk.
